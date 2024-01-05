@@ -1,1 +1,44 @@
-# MERHABA BEN RIDVAN
+
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rıdvan
+======================================================================================================================================
+
+Computer engineering student with a passion for coding and continuous learning. 💻✨
+-------------------------------
+
+<br/>
+
+* ✉️  You can contact me at [akyurekridvan2101@gmail.com](mailto:akyurekridvan2101@gmail.com)
+
+<br/>
+
+## 🌐Socials
+<p align="left">
+
+<a href="https://linkedin.com/in/akyurekridvan2101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akyurekridvan2101" height="30" width="40" /></a>
+<a href="https://instagram.com/akyurekridvan2101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akyurekridvan2101" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/23072887/akyurekridvan21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="akyurekridvan2101" height="30" width="40" /></a>
+<a href="https://medium.com/@akyurekridvan2101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="akyurekridvan2101" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/akyurekridvan2101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="akyurekridvan2101" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/akyurekridvan21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="akyurekridvan21" height="30" width="40" /></a>
+<a href="https://dev.to/akyurekridvan2101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="akyurekridvan2101" height="30" width="40" /></a>
+
+</p>
+
+<br/>
+
+# 💻Tech Stack
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<br/>
+
+# 📊GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=akyurekridvan2101&theme=radical&hide_border=true&include_all_commits=false&count_private=true)
+<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=akyurekridvan2101&theme=radical&hide_border=true)
+<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=akyurekridvan2101&theme=radical&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+
+<br/>
+
+### ✍️Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
