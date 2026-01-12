@@ -7,7 +7,7 @@ Computer engineering student with a passion for coding and continuous learning. 
 
 <br/>
 
-* ✉️  You can contact me at [akyurekridvan2101@gmail.com](mailto:ridvan.akyurek.contact@gmail.com)
+* ✉️  You can contact me at [ridvan.akyurek.contact@gmail.com](mailto:ridvan.akyurek.contact@gmail.com)
 
 <br/>
 
