@@ -7,19 +7,19 @@ Computer engineering student with a passion for coding and continuous learning. 
 
 <br/>
 
-* ✉️  You can contact me at [ridvan.akyurek.contact@gmail.com](mailto:ridvan.akyurek.contact@gmail.com)
+* ✉️  You can contact me at [ridvan.akyurek.contact@proton.me](mailto:ridvan.akyurek.contact@proton.me)
 
 <br/>
 
 ## 🌐Socials
 <p align="left">
 
-<a href="https://linkedin.com/in/akyurekridvan2101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akyurekridvan2101" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/23072887/akyurekridvan21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="akyurekridvan2101" height="30" width="40" /></a>
-<a href="https://medium.com/@akyurekridvan2101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="akyurekridvan2101" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/akyurekridvan2101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="akyurekridvan2101" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/akyurekridvan21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="akyurekridvan21" height="30" width="40" /></a>
-<a href="https://dev.to/akyurekridvan2101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="akyurekridvan2101" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ridvanakyurek21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ridvanakyurek21" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/23072887/ridvanakyurek21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ridvanakyurek21" height="30" width="40" /></a>
+<a href="https://medium.com/@ridvanakyurek21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="ridvanakyurek21" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/ridvanakyurek21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ridvanakyurek21" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/ridvanakyurek21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ridvanakyurek21" height="30" width="40" /></a>
+<a href="https://dev.to/ridvanakyurek21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ridvanakyurek21" height="30" width="40" /></a>
 
 </p>
 
@@ -38,11 +38,11 @@ Computer engineering student with a passion for coding and continuous learning. 
 <br/>
 
 # 📊GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=akyurekridvan2101&theme=radical&hide_border=true&include_all_commits=false&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=ridvanakyurek21&theme=radical&hide_border=true&include_all_commits=false&count_private=true)
 <br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=akyurekridvan2101&theme=radical&hide_border=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=ridvanakyurek21&theme=radical&hide_border=true)
 <br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=akyurekridvan2101&theme=radical&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ridvanakyurek21&theme=radical&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 <br/>
 
